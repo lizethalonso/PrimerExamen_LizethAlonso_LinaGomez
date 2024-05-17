@@ -1,0 +1,77 @@
+[2024-05-16 19:03:07] [ INFO ] [BD:29] tabla creada con exito
+[2024-05-16 19:03:07] [ INFO ] [PacienteDAOH2:23] iniciando la operacion de buscado de un paciente con id : 2
+[2024-05-16 19:03:07] [ INFO ] [DomicilioDAOH2:22] iniciando la busqueda de un domicilio con id: 2
+[2024-05-16 20:37:12] [ INFO ] [BD:36] tabla creada con exito
+[2024-05-16 20:37:12] [ ERROR] [PacienteDAOH2:30] Error al guardar el odontólogo: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?,?) [42102-224]
+[2024-05-16 20:37:12] [ ERROR] [PacienteDAOH2:30] Error al guardar el odontólogo: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?,?) [42102-224]
+[2024-05-16 20:37:12] [ ERROR] [PacienteDAOH2:67] Error al listar los odontólogos: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM ODONTOLOGO [42102-224]
+[2024-05-16 20:38:11] [ INFO ] [BD:36] tabla creada con exito
+[2024-05-16 20:38:11] [ ERROR] [PacienteDAOH2:30] Error al guardar el odontólogo: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?,?) [42102-224]
+[2024-05-16 20:38:11] [ ERROR] [PacienteDAOH2:30] Error al guardar el odontólogo: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?,?) [42102-224]
+[2024-05-16 20:38:11] [ ERROR] [PacienteDAOH2:67] Error al listar los odontólogos: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM ODONTOLOGO [42102-224]
+[2024-05-16 20:39:08] [ INFO ] [BD:36] tabla creada con exito
+[2024-05-16 20:39:08] [ ERROR] [PacienteDAOH2:30] Error al guardar el odontólogo: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?,?) [42102-224]
+[2024-05-16 20:39:08] [ ERROR] [PacienteDAOH2:30] Error al guardar el odontólogo: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?,?) [42102-224]
+[2024-05-16 20:39:08] [ ERROR] [PacienteDAOH2:67] Error al listar los odontólogos: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM ODONTOLOGO [42102-224]
+[2024-05-16 20:40:57] [ INFO ] [BD:36] tabla creada con exito
+[2024-05-16 20:40:57] [ ERROR] [PacienteDAOH2:30] Error al guardar el odontólogo: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?,?) [42102-224]
+[2024-05-16 20:40:57] [ ERROR] [PacienteDAOH2:30] Error al guardar el odontólogo: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?,?) [42102-224]
+[2024-05-16 20:40:57] [ ERROR] [PacienteDAOH2:67] Error al listar los odontólogos: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM ODONTOLOGO [42102-224]
+[2024-05-16 20:42:12] [ WARN ] [BD:39] Tabla "PACIENTE" no encontrada
+Table "PACIENTE" not found; SQL statement:
+INSERT INTO PACIENTE (NOMBRE, APELLIDO, CEDULA, FECHA_INGRESO, DOMICILIO_ID) VALUES ('Jorgito','Pereyra','111111','2024-05-16', 1), ('German','Fraire','22222','2024-05-10',2); INSERT INTO DOMICILIOS  (CALLE, NUMERO, LOCALIDAD, PROVINCIA) VALUES ('Siempre Viva',742,'Springfield','USA'),('Av. Uruguay',345,'Punta del Este','Uruguay') [42102-224]
+[2024-05-16 20:42:12] [ ERROR] [PacienteDAOH2:30] Error al guardar el odontólogo: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?,?) [42102-224]
+[2024-05-16 20:42:12] [ ERROR] [PacienteDAOH2:30] Error al guardar el odontólogo: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?,?) [42102-224]
+[2024-05-16 20:42:12] [ ERROR] [PacienteDAOH2:67] Error al listar los odontólogos: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM ODONTOLOGO [42102-224]
+[2024-05-16 20:44:44] [ INFO ] [BD:27] tabla creada con exito
+[2024-05-16 20:44:44] [ ERROR] [OdontologoDAOH2:30] Error al guardar el odontólogo: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?,?) [42102-224]
+[2024-05-16 20:44:44] [ ERROR] [OdontologoDAOH2:30] Error al guardar el odontólogo: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO ODONTOLOGO VALUES (?,?,?,?) [42102-224]
+[2024-05-16 20:44:44] [ ERROR] [OdontologoDAOH2:67] Error al listar los odontólogos: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM ODONTOLOGO [42102-224]
+[2024-05-16 20:45:26] [ INFO ] [BD:27] tabla creada con exito
+[2024-05-16 20:45:26] [ ERROR] [OdontologoDAOH2:30] Error al guardar el odontólogo: Cannot invoke "java.lang.Integer.intValue()" because the return value of "model.Odontologo.getId()" is null
+[2024-05-16 20:45:26] [ ERROR] [OdontologoDAOH2:30] Error al guardar el odontólogo: Cannot invoke "java.lang.Integer.intValue()" because the return value of "model.Odontologo.getId()" is null
+[2024-05-16 20:46:21] [ INFO ] [BD:27] tabla creada con exito
+[2024-05-16 20:46:21] [ ERROR] [OdontologoDAOH2:30] Error al guardar el odontólogo: Cannot invoke "java.lang.Integer.intValue()" because the return value of "model.Odontologo.getId()" is null
+[2024-05-16 20:46:21] [ ERROR] [OdontologoDAOH2:30] Error al guardar el odontólogo: Cannot invoke "java.lang.Integer.intValue()" because the return value of "model.Odontologo.getId()" is null
+[2024-05-16 20:48:14] [ INFO ] [BD:27] tabla creada con exito
+[2024-05-16 20:48:14] [ INFO ] [OdontologoDAOH2:28] Odontólogo guardado con éxito: model.Odontologo@52f27fbd
+[2024-05-16 20:48:14] [ INFO ] [OdontologoDAOH2:28] Odontólogo guardado con éxito: model.Odontologo@4d0d9fe7
+[2024-05-16 20:54:58] [ INFO ] [OdontologoDAOCollection:15] Odontólogo guardado en la colección: model.Odontologo@6973bf95
+[2024-05-16 20:54:58] [ INFO ] [OdontologoDAOCollection:15] Odontólogo guardado en la colección: model.Odontologo@6b26e945
+[2024-05-16 20:54:58] [ INFO ] [OdontologoDAOCollection:20] Listado de todos los odontólogos recuperado de la colección.
